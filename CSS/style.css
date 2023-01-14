@@ -1,0 +1,15 @@
+html {
+    scroll-behavior: smooth;
+    color: wheat;
+}
+
+@font-face {
+    font-family: Nunito;
+    src: url(../Fonts/Nunito/Nunito-VariableFont_wght.ttf);
+}
+
+body {
+    background: url("../IMG/Background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
